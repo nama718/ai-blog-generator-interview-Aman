@@ -1,0 +1,572 @@
+{
+  "wireless earbuds": {
+    "keyword": "wireless earbuds",
+    "search_volume": 15633,
+    "keyword_difficulty": 66,
+    "avg_cpc": 5.26,
+    "related_keywords": [
+      "guide wireless earbuds",
+      "discount wireless earbuds",
+      "wireless earbuds comparison",
+      "best wireless earbuds",
+      "review wireless earbuds",
+      "earbuds wireless"
+    ],
+    "top_ranking_pages": [
+      {
+        "url": "https://example1.com/article-about-wireless-earbuds",
+        "title": "Ultimate Guide to Wireless Earbuds - Top 15 Picks",
+        "domain_authority": 78
+      },
+      {
+        "url": "https://example2.com/article-about-wireless-earbuds",
+        "title": "Ultimate Guide to Wireless Earbuds - Top 10 Picks",
+        "domain_authority": 82
+      },
+      {
+        "url": "https://example3.com/article-about-wireless-earbuds",
+        "title": "Ultimate Guide to Wireless Earbuds - Top 8 Picks",
+        "domain_authority": 65
+      },
+      {
+        "url": "https://example4.com/article-about-wireless-earbuds",
+        "title": "Ultimate Guide to Wireless Earbuds - Top 15 Picks",
+        "domain_authority": 62
+      },
+      {
+        "url": "https://example5.com/article-about-wireless-earbuds",
+        "title": "Ultimate Guide to Wireless Earbuds - Top 14 Picks",
+        "domain_authority": 44
+      }
+    ],
+    "search_trends": {
+      "Jan": 82,
+      "Feb": 68,
+      "Mar": 65,
+      "Apr": 111,
+      "May": 80,
+      "Jun": 71,
+      "Jul": 106,
+      "Aug": 85,
+      "Sep": 65,
+      "Oct": 106,
+      "Nov": 100,
+      "Dec": 80
+    },
+    "competition_level": "High",
+    "suggested_bid": 5.61
+  },
+  "best headphones": {
+    "keyword": "best headphones",
+    "search_volume": 5689,
+    "keyword_difficulty": 90,
+    "avg_cpc": 13.91,
+    "related_keywords": [
+      "best headphones comparison",
+      "best headphones vs",
+      "how to choose best headphones",
+      "2024 best headphones",
+      "discount best headphones",
+      "headphones best"
+    ],
+    "top_ranking_pages": [
+      {
+        "url": "https://example1.com/article-about-best-headphones",
+        "title": "Ultimate Guide to Best Headphones - Top 8 Picks",
+        "domain_authority": 51
+      },
+      {
+        "url": "https://example2.com/article-about-best-headphones",
+        "title": "Ultimate Guide to Best Headphones - Top 10 Picks",
+        "domain_authority": 68
+      },
+      {
+        "url": "https://example3.com/article-about-best-headphones",
+        "title": "Ultimate Guide to Best Headphones - Top 7 Picks",
+        "domain_authority": 48
+      },
+      {
+        "url": "https://example4.com/article-about-best-headphones",
+        "title": "Ultimate Guide to Best Headphones - Top 12 Picks",
+        "domain_authority": 77
+      },
+      {
+        "url": "https://example5.com/article-about-best-headphones",
+        "title": "Ultimate Guide to Best Headphones - Top 9 Picks",
+        "domain_authority": 59
+      }
+    ],
+    "search_trends": {
+      "Jan": 81,
+      "Feb": 119,
+      "Mar": 87,
+      "Apr": 119,
+      "May": 81,
+      "Jun": 99,
+      "Jul": 85,
+      "Aug": 77,
+      "Sep": 112,
+      "Oct": 93,
+      "Nov": 91,
+      "Dec": 108
+    },
+    "competition_level": "High",
+    "suggested_bid": 13.86
+  },
+  "laptop reviews": {
+    "keyword": "laptop reviews",
+    "search_volume": 15393,
+    "keyword_difficulty": 83,
+    "avg_cpc": 24.96,
+    "related_keywords": [
+      "discount laptop reviews",
+      "cheap laptop reviews",
+      "2024 laptop reviews",
+      "best laptop reviews",
+      "guide laptop reviews",
+      "reviews laptop"
+    ],
+    "top_ranking_pages": [
+      {
+        "url": "https://example1.com/article-about-laptop-reviews",
+        "title": "Ultimate Guide to Laptop Reviews - Top 7 Picks",
+        "domain_authority": 57
+      },
+      {
+        "url": "https://example2.com/article-about-laptop-reviews",
+        "title": "Ultimate Guide to Laptop Reviews - Top 15 Picks",
+        "domain_authority": 89
+      },
+      {
+        "url": "https://example3.com/article-about-laptop-reviews",
+        "title": "Ultimate Guide to Laptop Reviews - Top 10 Picks",
+        "domain_authority": 61
+      },
+      {
+        "url": "https://example4.com/article-about-laptop-reviews",
+        "title": "Ultimate Guide to Laptop Reviews - Top 5 Picks",
+        "domain_authority": 80
+      },
+      {
+        "url": "https://example5.com/article-about-laptop-reviews",
+        "title": "Ultimate Guide to Laptop Reviews - Top 15 Picks",
+        "domain_authority": 47
+      }
+    ],
+    "search_trends": {
+      "Jan": 87,
+      "Feb": 102,
+      "Mar": 100,
+      "Apr": 115,
+      "May": 116,
+      "Jun": 97,
+      "Jul": 107,
+      "Aug": 72,
+      "Sep": 86,
+      "Oct": 97,
+      "Nov": 83,
+      "Dec": 81
+    },
+    "competition_level": "High",
+    "suggested_bid": 21.97
+  },
+  "gaming mouse": {
+    "keyword": "gaming mouse",
+    "search_volume": 39028,
+    "keyword_difficulty": 62,
+    "avg_cpc": 11.25,
+    "related_keywords": [
+      "2024 gaming mouse",
+      "cheap gaming mouse",
+      "alternative gaming mouse",
+      "top gaming mouse",
+      "best gaming mouse",
+      "mouse gaming"
+    ],
+    "top_ranking_pages": [
+      {
+        "url": "https://example1.com/article-about-gaming-mouse",
+        "title": "Ultimate Guide to Gaming Mouse - Top 12 Picks",
+        "domain_authority": 71
+      },
+      {
+        "url": "https://example2.com/article-about-gaming-mouse",
+        "title": "Ultimate Guide to Gaming Mouse - Top 10 Picks",
+        "domain_authority": 59
+      },
+      {
+        "url": "https://example3.com/article-about-gaming-mouse",
+        "title": "Ultimate Guide to Gaming Mouse - Top 15 Picks",
+        "domain_authority": 84
+      },
+      {
+        "url": "https://example4.com/article-about-gaming-mouse",
+        "title": "Ultimate Guide to Gaming Mouse - Top 8 Picks",
+        "domain_authority": 88
+      },
+      {
+        "url": "https://example5.com/article-about-gaming-mouse",
+        "title": "Ultimate Guide to Gaming Mouse - Top 11 Picks",
+        "domain_authority": 88
+      }
+    ],
+    "search_trends": {
+      "Jan": 93,
+      "Feb": 90,
+      "Mar": 78,
+      "Apr": 78,
+      "May": 75,
+      "Jun": 101,
+      "Jul": 96,
+      "Aug": 117,
+      "Sep": 122,
+      "Oct": 99,
+      "Nov": 77,
+      "Dec": 91
+    },
+    "competition_level": "High",
+    "suggested_bid": 11.43
+  },
+  "smartphone 2024": {
+    "keyword": "smartphone 2024",
+    "search_volume": 41027,
+    "keyword_difficulty": 82,
+    "avg_cpc": 13.39,
+    "related_keywords": [
+      "review smartphone 2024",
+      "2025 smartphone 2024",
+      "discount smartphone 2024",
+      "cheap smartphone 2024",
+      "price smartphone 2024",
+      "2024 smartphone"
+    ],
+    "top_ranking_pages": [
+      {
+        "url": "https://example1.com/article-about-smartphone-2024",
+        "title": "Ultimate Guide to Smartphone 2024 - Top 8 Picks",
+        "domain_authority": 55
+      },
+      {
+        "url": "https://example2.com/article-about-smartphone-2024",
+        "title": "Ultimate Guide to Smartphone 2024 - Top 12 Picks",
+        "domain_authority": 40
+      },
+      {
+        "url": "https://example3.com/article-about-smartphone-2024",
+        "title": "Ultimate Guide to Smartphone 2024 - Top 14 Picks",
+        "domain_authority": 73
+      },
+      {
+        "url": "https://example4.com/article-about-smartphone-2024",
+        "title": "Ultimate Guide to Smartphone 2024 - Top 7 Picks",
+        "domain_authority": 52
+      },
+      {
+        "url": "https://example5.com/article-about-smartphone-2024",
+        "title": "Ultimate Guide to Smartphone 2024 - Top 13 Picks",
+        "domain_authority": 44
+      }
+    ],
+    "search_trends": {
+      "Jan": 89,
+      "Feb": 75,
+      "Mar": 81,
+      "Apr": 88,
+      "May": 104,
+      "Jun": 114,
+      "Jul": 70,
+      "Aug": 101,
+      "Sep": 101,
+      "Oct": 80,
+      "Nov": 72,
+      "Dec": 98
+    },
+    "competition_level": "High",
+    "suggested_bid": 15.8
+  },
+  "fitness tracker": {
+    "keyword": "fitness tracker",
+    "search_volume": 11984,
+    "keyword_difficulty": 72,
+    "avg_cpc": 6.28,
+    "related_keywords": [
+      "how to choose fitness tracker",
+      "fitness tracker vs",
+      "alternative fitness tracker",
+      "best fitness tracker",
+      "2024 fitness tracker",
+      "tracker fitness"
+    ],
+    "top_ranking_pages": [
+      {
+        "url": "https://example1.com/article-about-fitness-tracker",
+        "title": "Ultimate Guide to Fitness Tracker - Top 12 Picks",
+        "domain_authority": 62
+      },
+      {
+        "url": "https://example2.com/article-about-fitness-tracker",
+        "title": "Ultimate Guide to Fitness Tracker - Top 9 Picks",
+        "domain_authority": 85
+      },
+      {
+        "url": "https://example3.com/article-about-fitness-tracker",
+        "title": "Ultimate Guide to Fitness Tracker - Top 13 Picks",
+        "domain_authority": 57
+      },
+      {
+        "url": "https://example4.com/article-about-fitness-tracker",
+        "title": "Ultimate Guide to Fitness Tracker - Top 10 Picks",
+        "domain_authority": 46
+      },
+      {
+        "url": "https://example5.com/article-about-fitness-tracker",
+        "title": "Ultimate Guide to Fitness Tracker - Top 6 Picks",
+        "domain_authority": 77
+      }
+    ],
+    "search_trends": {
+      "Jan": 82,
+      "Feb": 69,
+      "Mar": 106,
+      "Apr": 82,
+      "May": 63,
+      "Jun": 84,
+      "Jul": 87,
+      "Aug": 83,
+      "Sep": 98,
+      "Oct": 71,
+      "Nov": 79,
+      "Dec": 81
+    },
+    "competition_level": "High",
+    "suggested_bid": 6.86
+  },
+  "coffee maker": {
+    "keyword": "coffee maker",
+    "search_volume": 17021,
+    "keyword_difficulty": 75,
+    "avg_cpc": 11.42,
+    "related_keywords": [
+      "best coffee maker",
+      "discount coffee maker",
+      "buy coffee maker",
+      "how to choose coffee maker",
+      "cheap coffee maker",
+      "maker coffee"
+    ],
+    "top_ranking_pages": [
+      {
+        "url": "https://example1.com/article-about-coffee-maker",
+        "title": "Ultimate Guide to Coffee Maker - Top 13 Picks",
+        "domain_authority": 47
+      },
+      {
+        "url": "https://example2.com/article-about-coffee-maker",
+        "title": "Ultimate Guide to Coffee Maker - Top 8 Picks",
+        "domain_authority": 44
+      },
+      {
+        "url": "https://example3.com/article-about-coffee-maker",
+        "title": "Ultimate Guide to Coffee Maker - Top 8 Picks",
+        "domain_authority": 84
+      },
+      {
+        "url": "https://example4.com/article-about-coffee-maker",
+        "title": "Ultimate Guide to Coffee Maker - Top 7 Picks",
+        "domain_authority": 60
+      },
+      {
+        "url": "https://example5.com/article-about-coffee-maker",
+        "title": "Ultimate Guide to Coffee Maker - Top 12 Picks",
+        "domain_authority": 62
+      }
+    ],
+    "search_trends": {
+      "Jan": 57,
+      "Feb": 83,
+      "Mar": 73,
+      "Apr": 103,
+      "May": 92,
+      "Jun": 85,
+      "Jul": 95,
+      "Aug": 101,
+      "Sep": 78,
+      "Oct": 79,
+      "Nov": 96,
+      "Dec": 97
+    },
+    "competition_level": "High",
+    "suggested_bid": 12.48
+  },
+  "air fryer recipes": {
+    "keyword": "air fryer recipes",
+    "search_volume": 4455,
+    "keyword_difficulty": 64,
+    "avg_cpc": 2.34,
+    "related_keywords": [
+      "2025 air fryer recipes",
+      "best air fryer recipes",
+      "discount air fryer recipes",
+      "guide air fryer recipes",
+      "cheap air fryer recipes",
+      "recipes fryer air"
+    ],
+    "top_ranking_pages": [
+      {
+        "url": "https://example1.com/article-about-air-fryer-recipes",
+        "title": "Ultimate Guide to Air Fryer Recipes - Top 11 Picks",
+        "domain_authority": 65
+      },
+      {
+        "url": "https://example2.com/article-about-air-fryer-recipes",
+        "title": "Ultimate Guide to Air Fryer Recipes - Top 10 Picks",
+        "domain_authority": 85
+      },
+      {
+        "url": "https://example3.com/article-about-air-fryer-recipes",
+        "title": "Ultimate Guide to Air Fryer Recipes - Top 15 Picks",
+        "domain_authority": 64
+      },
+      {
+        "url": "https://example4.com/article-about-air-fryer-recipes",
+        "title": "Ultimate Guide to Air Fryer Recipes - Top 11 Picks",
+        "domain_authority": 81
+      },
+      {
+        "url": "https://example5.com/article-about-air-fryer-recipes",
+        "title": "Ultimate Guide to Air Fryer Recipes - Top 9 Picks",
+        "domain_authority": 50
+      }
+    ],
+    "search_trends": {
+      "Jan": 106,
+      "Feb": 87,
+      "Mar": 103,
+      "Apr": 119,
+      "May": 79,
+      "Jun": 108,
+      "Jul": 87,
+      "Aug": 99,
+      "Sep": 119,
+      "Oct": 129,
+      "Nov": 79,
+      "Dec": 118
+    },
+    "competition_level": "High",
+    "suggested_bid": 1.88
+  },
+  "yoga mat": {
+    "keyword": "yoga mat",
+    "search_volume": 36938,
+    "keyword_difficulty": 71,
+    "avg_cpc": 10.4,
+    "related_keywords": [
+      "yoga mat vs",
+      "buy yoga mat",
+      "cheap yoga mat",
+      "top yoga mat",
+      "review yoga mat",
+      "mat yoga"
+    ],
+    "top_ranking_pages": [
+      {
+        "url": "https://example1.com/article-about-yoga-mat",
+        "title": "Ultimate Guide to Yoga Mat - Top 11 Picks",
+        "domain_authority": 62
+      },
+      {
+        "url": "https://example2.com/article-about-yoga-mat",
+        "title": "Ultimate Guide to Yoga Mat - Top 7 Picks",
+        "domain_authority": 55
+      },
+      {
+        "url": "https://example3.com/article-about-yoga-mat",
+        "title": "Ultimate Guide to Yoga Mat - Top 13 Picks",
+        "domain_authority": 72
+      },
+      {
+        "url": "https://example4.com/article-about-yoga-mat",
+        "title": "Ultimate Guide to Yoga Mat - Top 13 Picks",
+        "domain_authority": 45
+      },
+      {
+        "url": "https://example5.com/article-about-yoga-mat",
+        "title": "Ultimate Guide to Yoga Mat - Top 10 Picks",
+        "domain_authority": 72
+      }
+    ],
+    "search_trends": {
+      "Jan": 64,
+      "Feb": 61,
+      "Mar": 98,
+      "Apr": 73,
+      "May": 73,
+      "Jun": 99,
+      "Jul": 76,
+      "Aug": 54,
+      "Sep": 66,
+      "Oct": 62,
+      "Nov": 66,
+      "Dec": 92
+    },
+    "competition_level": "High",
+    "suggested_bid": 12.02
+  },
+  "running shoes": {
+    "keyword": "running shoes",
+    "search_volume": 23725,
+    "keyword_difficulty": 84,
+    "avg_cpc": 9.12,
+    "related_keywords": [
+      "buy running shoes",
+      "top running shoes",
+      "how to choose running shoes",
+      "cheap running shoes",
+      "guide running shoes",
+      "shoes running"
+    ],
+    "top_ranking_pages": [
+      {
+        "url": "https://example1.com/article-about-running-shoes",
+        "title": "Ultimate Guide to Running Shoes - Top 14 Picks",
+        "domain_authority": 45
+      },
+      {
+        "url": "https://example2.com/article-about-running-shoes",
+        "title": "Ultimate Guide to Running Shoes - Top 14 Picks",
+        "domain_authority": 53
+      },
+      {
+        "url": "https://example3.com/article-about-running-shoes",
+        "title": "Ultimate Guide to Running Shoes - Top 13 Picks",
+        "domain_authority": 75
+      },
+      {
+        "url": "https://example4.com/article-about-running-shoes",
+        "title": "Ultimate Guide to Running Shoes - Top 11 Picks",
+        "domain_authority": 48
+      },
+      {
+        "url": "https://example5.com/article-about-running-shoes",
+        "title": "Ultimate Guide to Running Shoes - Top 9 Picks",
+        "domain_authority": 90
+      }
+    ],
+    "search_trends": {
+      "Jan": 72,
+      "Feb": 55,
+      "Mar": 96,
+      "Apr": 71,
+      "May": 77,
+      "Jun": 71,
+      "Jul": 89,
+      "Aug": 94,
+      "Sep": 63,
+      "Oct": 71,
+      "Nov": 86,
+      "Dec": 75
+    },
+    "competition_level": "High",
+    "suggested_bid": 8.56
+  }
+}
